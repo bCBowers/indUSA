@@ -1,1 +1,1 @@
-# indUSA
+This code uses data from the Upshot/Siena polling: https://github.com/TheUpshot/2018-live-poll-results (pulled 10/22) to look into the preferences of self-identified independents in swing districts across a number of different questions. It informs analysis published here: https://wthh.dataforprogress.org/blog/2018/10/28/independent-states-of-america. Full disclosure, the code is a linear mess so proceed accordingly!
